@@ -9,4 +9,5 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Welcome to Tic Tac Toe! Where would you 
 
 move = gets.strip
-input = get.chomps
+
+input_to_index (input)
